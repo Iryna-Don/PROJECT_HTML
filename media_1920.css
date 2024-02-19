@@ -1,0 +1,23 @@
+@media screen and (width: 1920px) {
+    .section_1 {
+        height: 50vw;
+    }
+
+    .section_2 {
+        height: 60vw;
+        margin-top: 0;
+    }
+
+    .choice {
+        display: flex;
+        padding-bottom: 0;
+    }
+
+    .section_3 {
+        margin-top: 2vw;
+    }
+}
+
+
+
+

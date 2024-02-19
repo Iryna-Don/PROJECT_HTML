@@ -1,0 +1,27 @@
+@media screen and (width: 1366px) {
+    .section_1 {
+        height: 48vw;
+    }
+
+    .section_2 {
+        margin-top: 6vw;
+        height: 57vw;
+    }
+
+    .choice {
+        padding-bottom: 0.5vw;
+    }
+    .choice-img>video{
+        width: 83.33vw;
+        height: 40vw;
+    }
+    .section_3, .section_4 {
+        margin-top: 0;
+    }
+
+
+}
+
+
+
+
